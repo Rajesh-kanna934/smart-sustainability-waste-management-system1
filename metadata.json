@@ -1,0 +1,7 @@
+{
+  "name": "Smart Sustainability Waste Management System",
+  "description": "A web-based 4R platform for waste reduction, item reuse, recycling, and sustainable community exchanges with Eco AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
